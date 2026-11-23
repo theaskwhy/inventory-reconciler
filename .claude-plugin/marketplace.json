@@ -1,0 +1,14 @@
+{
+  "name": "inventory-reconciler",
+  "owner": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "plugins": [
+    {
+      "name": "inventory-reconciler",
+      "source": "./",
+      "description": "Compare frozen independent records with a separate read-only catalog and prepare conservative match, conflict, duplicate, and unmatched candidate findings for human review."
+    }
+  ]
+}

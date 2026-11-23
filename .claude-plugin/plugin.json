@@ -1,0 +1,7 @@
+{
+  "name": "inventory-reconciler",
+  "description": "Compare frozen independent records with a separate read-only catalog and prepare conservative match, conflict, duplicate, and unmatched candidate findings for human review.",
+  "version": "1.0.0",
+  "author": { "name": "The Ask Why Company" },
+  "license": "MIT"
+}
